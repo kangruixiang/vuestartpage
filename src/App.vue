@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-content class="background">
-      <BlockContainer v-bind:categories="links" />
+      <BlockContainer class="block" v-bind:categories="links" />
     </v-content>
   </v-app>
 </template>
@@ -84,8 +84,13 @@ export default {
 
 <style>
 :root {
-  --gradient: linear-gradient(45deg, #182952, #2b3595, #7045af, #e14594);
+  --gradient: linear-gradient(45deg, #1c6a66, #1c546a, #264371, #312671);
 }
+
+.block {
+  height: 100%;
+}
+
 .background {
   background-image: var(--gradient);
   background-size: 400%;
