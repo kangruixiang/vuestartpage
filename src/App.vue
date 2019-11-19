@@ -54,7 +54,7 @@ export default {
           { name: "Youtube", url: "https://youtube.com" },
           {
             name: "Calendar",
-            url: "https://messages.google.com/web/conversations?redirected=true"
+            url: "https://calendar.google.com/calendar/r"
           },
           {
             name: "Gmail",
