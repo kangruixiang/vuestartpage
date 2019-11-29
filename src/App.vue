@@ -3,6 +3,7 @@
     <v-content class="background">
       <BlockContainer class="block" v-bind:categories="links" />
     </v-content>
+    <router-view />
   </v-app>
 </template>
 
