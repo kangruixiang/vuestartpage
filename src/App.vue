@@ -58,6 +58,10 @@ export default {
             url: "https://calendar.google.com/calendar/r"
           },
           {
+            name: "Messages",
+            url: "https://messages.google.com/web/"
+          },
+          {
             name: "Gmail",
             url: "https://gmail.com"
           },
@@ -75,7 +79,12 @@ export default {
               "https://www.truliantfcuonline.org/tob/live/usp-core/app/login/consumer"
           },
           { name: "Ally", url: "https://secure.ally.com/" },
-          { name: "Vanguard", url: "https://personal.vanguard.com/us/MyHome" }
+          { name: "Vanguard", url: "https://personal.vanguard.com/us/MyHome" },
+          {
+            name: "Fedloan",
+            url:
+              "https://accountaccess.myfedloan.org/accountAccess/index.cfm?event=common.home"
+          }
         ]
       }
     ]
