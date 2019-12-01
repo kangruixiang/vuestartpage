@@ -35,6 +35,11 @@ export default {
           {
             name: "ACP Journal",
             url: "https://annals-org.go.libproxy.wakehealth.edu/aim"
+          },
+          {
+            name: "UWorld",
+            url:
+              "https://www.uworld.com/ClientApp/V2/apps/Qbank/index.html#/test/welcome/5618757"
           }
         ]
       },
@@ -53,18 +58,8 @@ export default {
         sites: [
           { name: "Reddit", url: "http://old.reddit.com" },
           { name: "Youtube", url: "https://youtube.com" },
-          {
-            name: "Calendar",
-            url: "https://calendar.google.com/calendar/r"
-          },
-          {
-            name: "Messages",
-            url: "https://messages.google.com/web/"
-          },
-          {
-            name: "Gmail",
-            url: "https://gmail.com"
-          },
+          { name: "Messages", url: "https://messages.google.com/web/" },
+          { name: "Gmail", url: "https://gmail.com" },
           { name: "Drive", url: "https://drive.google.com" }
         ]
       },
