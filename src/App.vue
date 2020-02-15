@@ -50,7 +50,8 @@ export default {
           { name: "Calendar", url: "https://www.google.com/calendar/" },
           { name: "Todoist", url: "https://todoist.com/app#start" },
           { name: "Gmail", url: "https://gmail.com" },
-          { name: "Drive", url: "https://drive.google.com" }
+          { name: "Drive", url: "https://drive.google.com" },
+          { name: "Keep", url: "https://keep.google.com/u/0/" }
         ]
       },
       {
@@ -66,7 +67,7 @@ export default {
       {
         name: "Finance",
         sites: [
-          { name: "Wiki", url: "https://app.youneedabudget.com/" },
+          { name: "YNAB", url: "https://app.youneedabudget.com/" },
           { name: "Dicover", url: "https://card.discover.com" },
           {
             name: "Truliant",
@@ -79,6 +80,10 @@ export default {
             name: "Fedloan",
             url:
               "https://accountaccess.myfedloan.org/accountAccess/index.cfm?event=common.home"
+          },
+          {
+            name: "AMSbilling",
+            url: "https://ams-ubs.com/dvara/"
           }
         ]
       }
