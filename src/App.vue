@@ -51,7 +51,8 @@ export default {
           { name: "Todoist", url: "https://todoist.com/app#start" },
           { name: "Gmail", url: "https://gmail.com" },
           { name: "Drive", url: "https://drive.google.com" },
-          { name: "Keep", url: "https://keep.google.com/u/0/" }
+          { name: "Keep", url: "https://keep.google.com/u/0/" },
+          { name: "Notion", url: "https://www.notion.so" }
         ]
       },
       {
@@ -67,7 +68,6 @@ export default {
       {
         name: "Finance",
         sites: [
-          { name: "YNAB", url: "https://app.youneedabudget.com/" },
           { name: "Dicover", url: "https://card.discover.com" },
           {
             name: "Truliant",
