@@ -61,6 +61,7 @@ export default {
           { name: "Reddit", url: "http://old.reddit.com" },
           { name: "Youtube", url: "https://youtube.com" },
           { name: "Messages", url: "https://messages.google.com/web/" },
+          { name: "Telegram", url: "https://web.telegram.org/" },
           { name: "Gmail", url: "https://gmail.com" },
           { name: "Drive", url: "https://drive.google.com" }
         ]
