@@ -25,13 +25,13 @@ export default {
           { name: "Medhub", url: "https://wfbmc.medhub.com" },
           {
             name: "Citrix",
-            url: "https://portal.wfubmc.edu/Citrix/Metaframe/site/default.aspx"
+            url: "https://portal2.wakehealth.edu/"
           },
           {
             name: "Intranet",
             url: "https://intranet.wakehealth.edu/index.htm"
           },
-          { name: "Outlook", url: "http://outlook.wakehealth.edu" },
+          { name: "Outlook", url: "https://owa.wakehealth.edu" },
           {
             name: "ACP Journal",
             url: "https://annals-org.go.libproxy.wakehealth.edu/aim"
