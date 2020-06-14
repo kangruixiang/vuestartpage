@@ -85,6 +85,10 @@ export default {
           {
             name: "AMSbilling",
             url: "https://ams-ubs.com/dvara/"
+          },
+          {
+            name: "YNAB",
+            url: "https://app.youneedabudget.com/"
           }
         ]
       }
