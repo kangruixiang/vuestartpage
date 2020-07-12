@@ -40,6 +40,10 @@ export default {
             name: "UWorld",
             url:
               "https://www.uworld.com/ClientApp/V2/apps/Qbank/index.html#/test/welcome/5618757"
+          },
+          {
+            name: "MKSAP",
+            url: "https://mksap18.acponline.org/"
           }
         ]
       },
