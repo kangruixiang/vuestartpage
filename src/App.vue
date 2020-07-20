@@ -56,7 +56,8 @@ export default {
           { name: "Gmail", url: "https://gmail.com" },
           { name: "Drive", url: "https://drive.google.com" },
           { name: "Keep", url: "https://keep.google.com/u/0/" },
-          { name: "Notion", url: "https://www.notion.so" }
+          { name: "Notion", url: "https://www.notion.so" },
+          { name: "Roam", url: "https://roamresearch.com/#/app/kangruixiang" }
         ]
       },
       {
