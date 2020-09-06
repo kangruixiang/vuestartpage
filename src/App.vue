@@ -14,7 +14,7 @@ export default {
   name: "App",
 
   components: {
-    BlockContainer
+    BlockContainer,
   },
 
   data: () => ({
@@ -25,27 +25,27 @@ export default {
           { name: "Medhub", url: "https://wfbmc.medhub.com" },
           {
             name: "Citrix",
-            url: "https://portal2.wakehealth.edu/"
+            url: "https://portal2.wakehealth.edu/",
           },
           {
             name: "Intranet",
-            url: "https://intranet.wakehealth.edu/index.htm"
+            url: "https://intranet.wakehealth.edu/index.htm",
           },
           { name: "Outlook", url: "https://owa.wakehealth.edu" },
           {
             name: "ACP Journal",
-            url: "https://annals-org.go.libproxy.wakehealth.edu/aim"
+            url: "https://annals-org.go.libproxy.wakehealth.edu/aim",
           },
           {
             name: "UWorld",
             url:
-              "https://www.uworld.com/ClientApp/V2/apps/Qbank/index.html#/test/welcome/5618757"
+              "https://www.uworld.com/ClientApp/V2/apps/Qbank/index.html#/test/welcome/5618757",
           },
           {
             name: "MKSAP",
-            url: "https://mksap18.acponline.org/"
-          }
-        ]
+            url: "https://mksap18.acponline.org/",
+          },
+        ],
       },
       {
         name: "Personal",
@@ -57,8 +57,7 @@ export default {
           { name: "Drive", url: "https://drive.google.com" },
           { name: "Keep", url: "https://keep.google.com/u/0/" },
           { name: "Notion", url: "https://www.notion.so" },
-          { name: "Roam", url: "https://roamresearch.com/#/app/kangruixiang" }
-        ]
+        ],
       },
       {
         name: "Social",
@@ -68,8 +67,9 @@ export default {
           { name: "Messages", url: "https://messages.google.com/web/" },
           { name: "Telegram", url: "https://web.telegram.org/" },
           { name: "Gmail", url: "https://gmail.com" },
-          { name: "Drive", url: "https://drive.google.com" }
-        ]
+          { name: "Drive", url: "https://drive.google.com" },
+          { name: "Inoreader", url: "https://www.inoreader.com/" },
+        ],
       },
       {
         name: "Finance",
@@ -78,27 +78,27 @@ export default {
           {
             name: "Truliant",
             url:
-              "https://www.truliantfcuonline.org/tob/live/usp-core/app/login/consumer"
+              "https://www.truliantfcuonline.org/tob/live/usp-core/app/login/consumer",
           },
           { name: "Ally", url: "https://secure.ally.com/" },
           { name: "Vanguard", url: "https://personal.vanguard.com/us/MyHome" },
           {
             name: "Fedloan",
             url:
-              "https://accountaccess.myfedloan.org/accountAccess/index.cfm?event=common.home"
+              "https://accountaccess.myfedloan.org/accountAccess/index.cfm?event=common.home",
           },
           {
             name: "AMSbilling",
-            url: "https://ams-ubs.com/dvara/"
+            url: "https://ams-ubs.com/dvara/",
           },
           {
             name: "YNAB",
-            url: "https://app.youneedabudget.com/"
-          }
-        ]
-      }
-    ]
-  })
+            url: "https://app.youneedabudget.com/",
+          },
+        ],
+      },
+    ],
+  }),
 };
 </script>
 
