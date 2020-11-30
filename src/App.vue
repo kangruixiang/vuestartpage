@@ -53,7 +53,7 @@ export default {
           { name: "Wiki", url: "http://thisispiggy.gitlab.io/my-wiki/" },
           { name: "Calendar", url: "https://www.google.com/calendar/" },
           { name: "Todoist", url: "https://todoist.com/app#start" },
-          { name: "Gmail", url: "https://gmail.com" },
+          { name: "Drafts", url: "https://draftin.com/documents" },
           { name: "Drive", url: "https://drive.google.com" },
           { name: "Keep", url: "https://keep.google.com/u/0/" },
           { name: "Notion", url: "https://www.notion.so" },
