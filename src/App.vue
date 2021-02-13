@@ -31,7 +31,7 @@ export default {
             name: "Intranet",
             url: "https://intranet.wakehealth.edu/index.htm",
           },
-          { name: "Outlook", url: "https://owa.wakehealth.edu" },
+          { name: "Outlook", url: "http://outlook.com/owa/wakehealth.edu" },
           {
             name: "ACP Journal",
             url: "https://annals-org.go.libproxy.wakehealth.edu/aim",
@@ -52,7 +52,7 @@ export default {
         sites: [
           { name: "Wiki", url: "http://thisispiggy.gitlab.io/my-wiki/" },
           { name: "Calendar", url: "https://www.google.com/calendar/" },
-          { name: "Todoist", url: "https://todoist.com/app#start" },
+          { name: "Todoist", url: "https://todoist.com/app/" },
           { name: "Drafts", url: "https://draftin.com/documents" },
           { name: "Drive", url: "https://drive.google.com" },
           { name: "Keep", url: "https://keep.google.com/u/0/" },
