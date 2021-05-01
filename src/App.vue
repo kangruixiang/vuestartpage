@@ -37,11 +37,6 @@ export default {
             url: "https://annals-org.go.libproxy.wakehealth.edu/aim",
           },
           {
-            name: "UWorld",
-            url:
-              "https://www.uworld.com/ClientApp/V2/apps/Qbank/index.html#/test/welcome/5618757",
-          },
-          {
             name: "MKSAP",
             url: "https://mksap18.acponline.org/",
           },
@@ -70,7 +65,6 @@ export default {
           { name: "Messages", url: "https://messages.google.com/web/" },
           { name: "Telegram", url: "https://web.telegram.org/" },
           { name: "Gmail", url: "https://gmail.com" },
-          { name: "Drive", url: "https://drive.google.com" },
           { name: "Inoreader", url: "https://www.inoreader.com/" },
         ],
       },
@@ -91,10 +85,6 @@ export default {
               "https://accountaccess.myfedloan.org/accountAccess/index.cfm?event=common.home",
           },
           {
-            name: "AMSbilling",
-            url: "https://ams-ubs.com/dvara/",
-          },
-          {
             name: "YNAB",
             url: "https://app.youneedabudget.com/",
           },
@@ -107,7 +97,7 @@ export default {
 
 <style>
 :root {
-  --gradient: linear-gradient(45deg, #1c6a66, #1c546a, #264371, #312671);
+  --gradient: linear-gradient(45deg, #416b69, #3f5f6b, #435570, #504a70);
 }
 
 .block {
