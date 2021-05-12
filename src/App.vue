@@ -45,9 +45,8 @@ export default {
       {
         name: "Personal",
         sites: [
-          { name: "Wiki", url: "http://thisispiggy.gitlab.io/my-wiki/" },
           { name: "Calendar", url: "https://www.google.com/calendar/" },
-          { name: "Todoist", url: "https://todoist.com/app/" },
+          { name: "Todoist", url: "https://beta.todoist.com/app/" },
           { name: "Drafts", url: "https://draftin.com/documents" },
           { name: "Drive", url: "https://drive.google.com" },
           {
